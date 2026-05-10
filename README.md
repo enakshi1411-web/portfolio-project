@@ -4,7 +4,7 @@
 
 This project was completed as part of a portfolio assignment to demonstrate the ability to independently learn and set up developer tools, GitHub workflows, and AI coding integrations.
 
-Coming from a non-technical background, this was my first hands-on experience using Cursor IDE, GitHub repositories, Git workflows, and AI coding extensions like Claude Code and Codex. Throughout the process, I relied on documentation, YouTube tutorials, troubleshooting, and experimentation to complete the setup successfully.
+I already had prior exposure to AI tools such as ChatGPT, Claude Code, and collaborative AI workflows through previous experimentation and projects. However, this assignment gave me hands-on experience with setting up a complete local development workflow independently using Cursor, GitHub repositories, Git operations, Codex, and Claude Code integrations.
 
 ## Tools Installed
 
