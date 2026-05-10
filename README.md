@@ -80,12 +80,9 @@ While trying to commit the README.md changes, Git displayed an error asking me t
   https://developers.openai.com/codex/ide
 
   - ChatGPT  
-  Used for guidance, troubleshooting, GitHub workflow understanding, README structuring, and navigating Cursor IDE setup.
+  Used as a supplementary learning and troubleshooting resource while understanding GitHub workflows, Cursor IDE navigation, and README structuring.
 
 ### YouTube Tutorials
-
-- GitHub Tutorial for Beginners – Programming with Mosh  
-  https://www.youtube.com/watch?v=RGOj5yH7evk
 
 - Git and GitHub for Beginners  
   https://www.youtube.com/results?search_query=git+and+github+for+beginners
