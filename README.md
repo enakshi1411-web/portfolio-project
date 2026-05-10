@@ -48,6 +48,9 @@ Since this was my first time using a developer IDE and GitHub workflows, navigat
 ### 7. Understanding Command Palette Usage
 Learning how to use keyboard shortcuts and commands such as Git Clone and extension commands required additional research and experimentation.
 
+### 8. Git Commit Configuration Issue
+While trying to commit the README.md changes, Git displayed an error asking me to configure "user.name" and "user.email" before allowing commits.
+
 ## How I Solved The Problems
 
 - Used YouTube tutorials to understand GitHub basics and Git workflows
@@ -58,6 +61,7 @@ Learning how to use keyboard shortcuts and commands such as Git Clone and extens
 - Researched Git Clone workflow before cloning the repository locally
 - Referred to beginner-friendly GitHub tutorials to understand repositories, commits, and pushes
 - Broke the assignment into smaller steps and completed each task individually
+- Configured Git globally using git config commands for user.name and user.email after understanding that Git requires identity configuration before commits can be made
 
 ## Resources Used
 
